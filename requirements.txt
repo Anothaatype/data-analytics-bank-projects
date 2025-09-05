@@ -1,0 +1,20 @@
+openai
+fastapi
+
+#Core Stack 
+numpy
+pandas
+scikit-learn
+
+#Data Visualization 
+matplotlib
+seaborn
+plotly #interactive 3D PCA Plots
+
+#Interactive 3D Development 
+jupyter
+notebook
+ipykernel
+
+#Statistical Analysis  
+Scipy 
