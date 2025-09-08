@@ -1,0 +1,6 @@
+,user_id,frequency,frequency,monetary,monetary,recency,recency,avg_transaction_value,avg_transaction_value
+,count,mean,std,mean,std,mean,std,mean,std
+segment_name,,,,,,,,,
+Cluster_1_High_Value,3,24549.67,74.72,5505883.33,37272.12,0.0,0.0,224.27,1.03
+Cluster_2_Medium_Value,5,6137.4,85.03,1384914.0,20585.76,0.0,0.0,225.68,4.17
+Cluster_3_Low_Value,12,1534.42,32.6,347658.33,15954.65,0.0,0.0,226.51,7.28

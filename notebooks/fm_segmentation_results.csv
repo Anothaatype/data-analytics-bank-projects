@@ -1,0 +1,21 @@
+user_id,frequency,monetary,last_transaction_date,user_name,channel_type,message_status,field_of_business,recency,avg_transaction_value,cluster,segment_name
+user_1,24496,5464880,2025-03-31 20:59:00,CV Land Sejahtera,Call,answered,Real Estate,0,223.09274983670804,1,Cluster_1_High_Value
+user_10,1525,345350,2025-03-31 17:20:00,PT Mart Jaya,Call,answered,Retail,0,226.45901639344262,0,Cluster_3_Low_Value
+user_11,1559,361730,2025-03-31 16:24:00,PT Travel Nusantara,Call,answered,Hospitality,0,232.02694034637588,0,Cluster_3_Low_Value
+user_12,1487,321220,2025-03-31 18:06:00,CV Mart Indo,Call,answered,Retail,0,216.01882985877606,0,Cluster_3_Low_Value
+user_13,1530,355960,2025-03-31 15:43:00,PT Saham Global,Call,answered,Finance,0,232.65359477124184,0,Cluster_3_Low_Value
+user_14,1523,323330,2025-03-31 13:13:00,CV Hotel Nusantara,Call,answered,Hospitality,0,212.29809586342745,0,Cluster_3_Low_Value
+user_15,1488,343890,2025-03-31 14:45:00,PT Edu Mandiri,Call,answered,Education,0,231.10887096774192,0,Cluster_3_Low_Value
+user_16,1593,361110,2025-03-31 18:11:00,PT Estate Sejahtera,Call,answered,Real Estate,0,226.6854990583804,0,Cluster_3_Low_Value
+user_17,1510,336920,2025-03-31 16:16:00,PT Karya Jaya,Call,answered,Education,0,223.12582781456953,0,Cluster_3_Low_Value
+user_18,1573,366530,2025-03-31 19:51:00,CV Jalan Mandiri,Call,answered,Travel,0,233.01335028607755,0,Cluster_3_Low_Value
+user_19,1552,355560,2025-03-31 15:41:00,CV Niaga Indo,Call,answered,eCommerce,0,229.0979381443299,0,Cluster_3_Low_Value
+user_2,24518,5515060,2025-03-31 20:55:00,PT Dana Nusantara,Call,answered,Finance,0,224.9392283220491,1,Cluster_1_High_Value
+user_20,1554,365890,2025-03-31 17:28:00,CV Hotel Jaya,Call,answered,Hospitality,0,235.45045045045046,0,Cluster_3_Low_Value
+user_3,24635,5537710,2025-03-31 20:50:00,CV Wisata Indo,Call,answered,Travel,0,224.7903389486503,1,Cluster_1_High_Value
+user_4,6230,1370070,2025-03-31 19:32:00,PT Konektivitas Indo,Call,answered,Telecommunications,0,219.91492776886037,2,Cluster_2_Medium_Value
+user_5,6198,1402270,2025-03-31 20:48:00,PT Karya Sejahtera,Call,answered,Education,0,226.2455630848661,2,Cluster_2_Medium_Value
+user_6,6010,1375070,2025-03-31 19:56:00,PT Logistik Mandiri,Call,answered,Logistics,0,228.79700499168052,2,Cluster_2_Medium_Value
+user_7,6132,1411490,2025-03-31 20:43:00,PT Retail Sejahtera,Call,answered,Retail,0,230.1842791911285,2,Cluster_2_Medium_Value
+user_8,6117,1365670,2025-03-31 20:35:00,PT Belajar Nusantara,Call,answered,Education,0,223.25813307176722,2,Cluster_2_Medium_Value
+user_9,1519,334410,2025-03-31 19:18:00,PT Citra Global,Call,answered,Hospitality,0,220.1514154048716,0,Cluster_3_Low_Value
